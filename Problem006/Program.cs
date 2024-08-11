@@ -11,7 +11,7 @@
             /// </summary>
             /// <param name="args"></param>
             Solution s = new Solution();
-            Console.WriteLine(s.solution(5,1));
+            Console.WriteLine(s.solution(6,1));
         }
     }
 
